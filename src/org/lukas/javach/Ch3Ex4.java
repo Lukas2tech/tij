@@ -1,6 +1,5 @@
 package org.lukas.javach;
 
-import java.util.Calendar;
 
 public class Ch3Ex4 {
 	private static final float distance = 6000f; 	// distance in meters 
